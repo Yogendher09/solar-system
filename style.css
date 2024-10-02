@@ -1,0 +1,154 @@
+body{
+    background:url(https://cdn.pixabay.com/photo/2016/11/21/12/39/stars-1845140_640.jpg);
+    background-size: cover;
+    padding: 100px;
+    position: absolute;
+}
+
+
+#neptune{
+    width: 900px;
+    height: 900px;
+    border: 1px solid black;
+    border-radius: 50%;
+   border-color: white;
+    
+}
+#neptune-pic{
+    border-radius: 90%;
+    width: 90px;
+    height: 80px;
+    position: absolute;
+    top: 70px;
+
+}
+#uranus{
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    border-color: white;
+}
+#uranus-pic{
+    border-radius: 90%;
+    width: 90px;
+    height: 80px;
+    position: absolute;
+    left: 420px;
+    bottom: 125px;
+   
+}
+#saturn{
+    width: 700px;
+    height:700px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    border-color: white;
+    
+}
+#saturn-pic{
+    border-radius: 90%;
+    width: 90px;
+    height: 80px;
+    position: absolute;
+    right: 420px;
+    top: 175px;
+}
+#jupiter{
+    width: 600px;
+    height:600px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    border-color: white;
+}
+#jupiter-pic{
+    border-radius: 90%;
+    width: 90px;
+    height: 80px;
+    position: absolute;
+    right: 420px;
+    bottom: 250px;
+    left: 650px;
+}
+#mars{
+     
+    width: 500px;
+    height:500px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    border-color: white;
+}
+#mars-pic{
+    border-radius: 90%;
+    width: 90px;
+    height: 80px;
+    position: absolute;
+    left: 258px;
+    top:  500px;
+   
+}
+#earth{
+    width: 400px;
+    height:400px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    border-color: white;
+}
+#earth-pic{
+    border-radius: 90%;
+    width: 90px;
+    height: 80px;
+    position: absolute;
+    right: 310px;
+    top:  550px;
+   
+}
+#venus{
+    width: 300px;
+    height:300px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    border-color: white;
+}
+#venus-pic{
+    border-radius: 90%;
+     width: 90px;
+    height: 90px;
+    position: absolute;
+    left: 560px;
+    top:  373px;
+   
+}
+#mercury{
+    width: 200px;
+    height:200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    border-color: white;
+}
+#mercury-pic{
+    border-radius: 90%;
+     width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 500px;
+    bottom: 430px;
+   
+}
+#sun-pic{
+    border-radius: 90%;
+    width: 120px;
+    height:120px;
+    position: absolute;
+    left: 490px;
+    top: 500px;
+    
+   
+}
